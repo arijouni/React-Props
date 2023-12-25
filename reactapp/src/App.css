@@ -7,7 +7,7 @@
   background-color: #eaeaea;
   overflow: hidden;
   margin: 0;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPtO1zJafRm6fkRt0ry2Rw9WFtFipmfAm_o1U2f2RdKgjVckxNWhdFfAbsfY8YUesMFA&usqp=CAU);
+  background-image: url(https://www.shutterstock.com/shutterstock/photos/2201175331/display_1500/stock-photo-karachi-pakistan-september-fifa-world-cup-celebration-winning-trophy-with-stadium-d-2201175331.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -93,4 +93,3 @@
 .logo {
   animation: blurEffect 5s ease-in-out infinite;
 }
-
